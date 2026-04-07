@@ -443,3 +443,5 @@ https://orbmarkets.io/token/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 https://dexscreener.com/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
 https://www.orca.so/pools?tokens=7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+https://gmgn.ai/sol/token/solscan_7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
