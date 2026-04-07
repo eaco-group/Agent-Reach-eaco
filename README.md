@@ -394,7 +394,9 @@ Yes! Agent Reach is an installer + configuration tool — any AI coding agent th
 [![Star History Chart](https://api.star-history.com/svg?repos=Panniantong/Agent-Reach&type=Date&v=20260309)](https://star-history.com/#Panniantong/Agent-Reach&Date)
 
 
-构建地球未来５０００年，５０００万年,5000万亿的华夏星际商业文明，有哪些重要思想为基础？ ​​​如何预防及应对各种风险？ ​​​建立eaco/eCNH预案栏目，集成全球前10大AI的免费API额度，每天自动更新10个预案的文章。
+构建地球未来5年，50年，500年，５０００年，５０００万年,5000万亿年的华夏星际商业文明，有哪些重要思想为基础？ ​​​如何预防及应对各种风险？ 
+
+​​​建立eaco/eCNH预案栏目，探讨探索，每天自动更新10个预案的文章。
 
 https://github.com/eaco-group/Agent-Reach-eaco 
 
