@@ -424,6 +424,8 @@ earth & Global Humanity Builds and Shares eCNH Together.
 
 
 探索ECNH在SOL+BNB跨链方案，earth赋能CNH=eCNH,earth empowers CNH = eCNH
+
+
 Wrapped BNB(Wormhole)，
 https://www.oklink.com/solana/token/9gP2kCy3wA1ctvYWQk75guqXuHfrEomqydHLtcTCqiLa
 
