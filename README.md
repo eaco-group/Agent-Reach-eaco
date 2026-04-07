@@ -445,3 +445,7 @@ https://dexscreener.com/solana/7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 https://www.orca.so/pools?tokens=7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
 
 https://gmgn.ai/sol/token/solscan_7GQnqthWKa5v2GqXYWhmgWZY5mCRrniwK3Xuinm9GKw5
+
+<img width="1024" height="1536" alt="eCNH海外静默招商1 image" src="https://github.com/user-attachments/assets/8f8b3995-9287-4f1c-8cd9-41009b1f772d" />
+
+<img width="421" height="739" alt="eCNH海外静默招商2 d48a6bc43cbe3b9f801dfb322623d132" src="https://github.com/user-attachments/assets/43b1b9c3-83f6-4511-b78b-6b8384ac7b85" />
